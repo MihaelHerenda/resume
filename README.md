@@ -1,2 +1,2 @@
-# resume
+# cv
 My personal projects
